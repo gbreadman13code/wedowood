@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/wedowood/static/css/main.1917b275.chunk.css",
+    "main.js": "/wedowood/static/js/main.56a4c6f6.chunk.js",
+    "main.js.map": "/wedowood/static/js/main.56a4c6f6.chunk.js.map",
+    "runtime-main.js": "/wedowood/static/js/runtime-main.1391b632.js",
+    "runtime-main.js.map": "/wedowood/static/js/runtime-main.1391b632.js.map",
+    "static/js/2.50f698e6.chunk.js": "/wedowood/static/js/2.50f698e6.chunk.js",
+    "static/js/2.50f698e6.chunk.js.map": "/wedowood/static/js/2.50f698e6.chunk.js.map",
+    "static/js/3.4c46b7ef.chunk.js": "/wedowood/static/js/3.4c46b7ef.chunk.js",
+    "static/js/3.4c46b7ef.chunk.js.map": "/wedowood/static/js/3.4c46b7ef.chunk.js.map",
+    "index.html": "/wedowood/index.html",
+    "static/css/main.1917b275.chunk.css.map": "/wedowood/static/css/main.1917b275.chunk.css.map",
+    "static/js/2.50f698e6.chunk.js.LICENSE.txt": "/wedowood/static/js/2.50f698e6.chunk.js.LICENSE.txt",
+    "static/media/1.8cfc4373.png": "/wedowood/static/media/1.8cfc4373.png",
+    "static/media/1.93015218.png": "/wedowood/static/media/1.93015218.png",
+    "static/media/2.5c7bbc62.png": "/wedowood/static/media/2.5c7bbc62.png",
+    "static/media/2.ef60367d.png": "/wedowood/static/media/2.ef60367d.png",
+    "static/media/3.71ae5ea0.png": "/wedowood/static/media/3.71ae5ea0.png",
+    "static/media/4.1d13f74d.png": "/wedowood/static/media/4.1d13f74d.png",
+    "static/media/FirstPage.module.css": "/wedowood/static/media/wood.421e1e39.jpg",
+    "static/media/gmail.ec52ecc6.svg": "/wedowood/static/media/gmail.ec52ecc6.svg",
+    "static/media/inst.53626cb1.svg": "/wedowood/static/media/inst.53626cb1.svg",
+    "static/media/logo.23b4f728.png": "/wedowood/static/media/logo.23b4f728.png",
+    "static/media/About.module.css": "/wedowood/static/media/logs.469968c5.jpg",
+    "static/media/phone.7b510ecb.svg": "/wedowood/static/media/phone.7b510ecb.svg",
+    "static/media/tg.bcdd4e08.svg": "/wedowood/static/media/tg.bcdd4e08.svg",
+    "static/media/wsap.f441be03.svg": "/wedowood/static/media/wsap.f441be03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1391b632.js",
+    "static/js/2.50f698e6.chunk.js",
+    "static/css/main.1917b275.chunk.css",
+    "static/js/main.56a4c6f6.chunk.js"
+  ]
+}
